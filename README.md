@@ -2,7 +2,7 @@
 Dette projekt er en afsluttende opgave til Programmeringsfaget i gymnasiet.
 Hele programmet er skrevet i C++ og benytter grafikbiblioteket SFML.
 
-[Et spil i gang, man kan se de forskellige highlights, samt mulige flyt](Readme-Image.PNG)
+![Et spil i gang, man kan se de forskellige highlights, samt mulige flyt](Readme-Image.PNG)
 
 Man spiller to personer mod hinanden og skiftes til at klikke på en brik for at flytte den.
 Hvid starter og spillet fortsætter indtil en af spillerne mister deres konge.
